@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# PGA Mitsubishi Electric Championship at Hualalai
 
 ## Environments
-- Preview: https://main--franklin-the-players--pgatour.hlx.page/
-- Live: https://main--franklin-the-players--pgatour.hlx.live/
+- Preview: https://main--pga-mitsubishi-electric-championship--hlxsites.hlx.page/
+- Live: https://main--pga-mitsubishi-electric-championship--hlxsites.hlx.live/
+- Prod: https://www.mecgolf.com
 
 ## Installation
 
