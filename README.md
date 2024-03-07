@@ -1,8 +1,8 @@
 # PGA Mitsubishi Electric Championship at Hualalai
 
 ## Environments
-- Preview: https://main--pga-mitsubishi-electric-championship--hlxsites.hlx.page/
-- Live: https://main--pga-mitsubishi-electric-championship--hlxsites.hlx.live/
+- Preview: https://main--franklin-mitsubishi-electric-championship--pgatour.hlx.page/
+- Live: https://main--franklin-mitsubishi-electric-championship--pgatour.hlx.live/
 - Prod: https://www.mecgolf.com
 
 ## Installation
